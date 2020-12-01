@@ -89,6 +89,12 @@ ul li:hover a {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
+/* About Section */
+.about {
+	margin: auto;
+	text-align: center;
+	background-color: #FFFFFF;
+}
 /* Stats Gallery */
 .stats {
 	color: #717070;
