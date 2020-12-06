@@ -74,6 +74,7 @@ ul li:hover a {
 /* Hero Section */
 .hero {
 	background-color: #B3B3B3;
+	background-image: url("images/seattle11.jpg");
 	padding-top: 100px;
 	padding-bottom: 100px;
 }
