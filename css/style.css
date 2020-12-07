@@ -10,6 +10,10 @@ body {
 	font-style: normal;
 	font-weight: 200;
 }
+.a {
+	color: #2C9AB7;
+	text-decoration: none;
+}
 /* Container */
 .container {
 	width: 90%;
