@@ -458,12 +458,14 @@ list-style-type:none;
     padding: 1px 30px;
     font-size:15px;
     background:#717070;
+    color: #FFFFFF;
     text-transform: uppercase;
-margin: 0 30px;
-   letter-spacing: 2px;
+    margin: 0 30px;
+    letter-spacing: 2px;
 }
 .btn-outline-dark:hover {
     background:#52BAD5;
+    color: #FFFFFF;
     
 }
 
