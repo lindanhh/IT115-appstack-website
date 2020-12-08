@@ -445,3 +445,7 @@ nav ul li {
 	padding-top: 0px;
 }
 }
+
+.reference {
+list-style-type:none;
+}
