@@ -451,13 +451,23 @@ list-style-type:none;
 
 
 
+.mainDoc{
+margin: 0 30px;
+	padding: 20px 20px 20px 20px;
+	background-color: #717070;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+}
 
 .btn-outline-dark {
     border-radius: 40px;
     border: 2.5px solid #52BAD5;
     padding: 1px 30px;
     font-size:15px;
-    background:#717070;
+    background: white;
     color: #FFFFFF;
     text-transform: uppercase;
     margin: 0 30px;
@@ -469,9 +479,3 @@ list-style-type:none;
     
 }
 
-
-@media only screen and (max-width : 960px) {
-#menu-icon {
-	display:block;
-}
-}
