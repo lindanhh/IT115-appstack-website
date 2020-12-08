@@ -203,9 +203,8 @@ footer .footer_column p {
 	margin-right: 20px;
 }
 .copyright {
-	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	text-align: left;
+	padding: 20px 20px 20px 20px;
 	background-color: #717070;
 	color: #FFFFFF;
 	text-transform: uppercase;
@@ -455,16 +454,16 @@ list-style-type:none;
 
 .btn-outline-dark {
     border-radius: 40px;
-    border: 3px solid black;
+    border: 3px solid #52BAD5;
     padding: 1px 30px;
     font-family: roboto, 'sans serif';
     font-weight:bold;
     font-size:16px;
-    background:white;
+   /* background:white;*/
     text-transform: uppercase;
 }
 .btn-outline-dark:hover {
-    background:black;
+    background:#52BAD5;
     color:white;
 }
 
