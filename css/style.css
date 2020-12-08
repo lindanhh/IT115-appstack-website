@@ -456,7 +456,6 @@ list-style-type:none;
     border-radius: 40px;
     border: 2.5px solid #52BAD5;
     padding: 1px 30px;
-    color:white;
     font-size:15px;
     background:#717070;
     text-transform: uppercase;
@@ -465,7 +464,7 @@ margin: 0 30px;
 }
 .btn-outline-dark:hover {
     background:#52BAD5;
-    color:white;
+    
 }
 
 
