@@ -459,12 +459,17 @@ list-style-type:none;
     font-family: roboto, 'sans serif';
     font-weight:bold;
     font-size:16px;
-   /* background:white;*/
+    background:#717070;
     text-transform: uppercase;
+   display:
 }
 .btn-outline-dark:hover {
     background:#52BAD5;
     color:white;
+}
+
+.copyright, .btn-outline-dark {
+	display: inline-block;
 }
 
 @media only screen and (max-width : 960px) {
