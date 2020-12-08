@@ -476,6 +476,6 @@ margin: 0 30px;
     letter-spacing: 2px;
 }
 .btn-outline-dark:hover {
-    background:#52BAD5;
-    color: #FFFFFF;
+    background:#white;
+    /*color: #FFFFFF;*/
 }
