@@ -97,7 +97,7 @@ ul li:hover a {
 /* About Section */
 .about {
 	margin: auto;
-	text-align: center;
+	padding: 25px;
 	background-color: #FFFFFF;
 }
 /* Stats Gallery */
