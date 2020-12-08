@@ -456,6 +456,7 @@ list-style-type:none;
     border-radius: 40px;
     border: 3px solid #52BAD5;
     padding: 1px 30px;
+    color:white;
     font-family: roboto, 'sans serif';
     font-weight:bold;
     font-size:16px;
@@ -468,9 +469,6 @@ list-style-type:none;
     color:white;
 }
 
-.copyright, .btn-outline-dark {
-	display: inline-block;
-}
 
 @media only screen and (max-width : 960px) {
 #menu-icon {
