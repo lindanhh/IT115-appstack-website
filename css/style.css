@@ -449,3 +449,26 @@ nav ul li {
 .reference {
 list-style-type:none;
 }
+
+
+
+
+.btn-outline-dark {
+    border-radius: 40px;
+    border: 3px solid black;
+    padding: 1px 30px;
+    font-family: roboto, 'sans serif';
+    font-weight:bold;
+    font-size:16px;
+    background:white;
+    text-transform: uppercase;
+}
+.btn-outline-dark:hover {
+    background:black;
+    color:white;
+}
+
+@media only screen and (max-width : 960px) {
+#menu-icon {
+	display:block;
+}
