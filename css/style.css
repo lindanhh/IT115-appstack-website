@@ -206,7 +206,7 @@ footer .footer_column p {
 }
 .copyright {
 	text-align: left;
-	padding: 20px 20px 20px 20px;
+	padding: 0 20px 0 40px;
 	background-color: #717070;
 	color: #FFFFFF;
 	text-transform: uppercase;
