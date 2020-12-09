@@ -452,18 +452,6 @@ list-style-type:none;
 }
 
 
-.mainDoc{
-margin: 0 30px;
-	padding: 20px 20px 20px 20px;
-	background-color: #717070;
-	color: #FFFFFF;
-	text-transform: uppercase;
-	font-weight: lighter;
-	letter-spacing: 2px;
-	display: inline-block;
-    	color: #444444;
-}
-
 .btn-outline-dark {
     border-radius: 40px;
     border: 2.5px solid #52BAD5;
