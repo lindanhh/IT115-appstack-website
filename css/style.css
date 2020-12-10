@@ -1,7 +1,8 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,700&display=swap');
 /* Body */
 body {
-	font-family: source-sans-pro;
+	font-family: 'Roboto', sans-serif;
 	background-color: #f2f2f2;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -43,6 +44,7 @@ header {
 }
 nav {
 	float: right;
+	padding: justify;
 	width: 50%;
 	text-align: right;
 	margin-right: 25px;
@@ -80,7 +82,6 @@ ul li:hover a {
 /* Hero Section */
 .hero {
 	background-color: #B3B3B3;
-	background-image: url("images/seattle11.jpg");
 	padding-top: 100px;
 	padding-bottom: 100px;
 }
@@ -141,7 +142,6 @@ ul li:hover a {
 /* Parallax Section */
 .banner {
 	background-color: #2D9AB7;
-	background-image: url(../images/parallax.png);
 	height: 400px;
 	background-attachment: fixed;
 	background-size: cover;
@@ -171,7 +171,7 @@ ul li:hover a {
 /* More info */
 footer {
 	background-color: #FFFFFF;
-	padding-bottom: 35px;
+	padding: justify;
 }
 .footer_column {
 	width: 50%;
@@ -219,7 +219,6 @@ footer .footer_column p {
 	padding-top: 60px;
 	padding-bottom: 60PX;
 	margin-bottom: 0px;
-	background-image: url(footer_banner.jpg);
 	background-repeat: repeat;
 }
 footer {
@@ -465,5 +464,4 @@ list-style-type:none;
 }
 .btn-outline-dark:hover {
     background:#white;
-    /*color: #FFFFFF;*/
 }
